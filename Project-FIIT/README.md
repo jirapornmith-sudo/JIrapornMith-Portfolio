@@ -2,3 +2,66 @@
 <img src="https://github.com/user-attachments/assets/193157a4-5864-4948-a8bb-19836a7c08c8" width="600" alt="View Project Presentation">
 </a>
 <p><i>▲ คลิกที่รูปเพื่อดู Presentation บน Canva</i></p>
+
+
+
+# FIIT: Smart Second-Hand Fashion Platform
+**End-to-End Product Design | UX/UI & Technical Implementation**
+
+## Project Overview
+A mobile marketplace platform designed to bridge the gap in the second-hand fashion market by solving **user trust issues** and **complex purchasing journeys** through data-driven design.
+
+## My Role: Product Designer & Developer
+While this project followed a Full SDLC, my focus was on translating business requirements into a seamless user experience:
+
+* **UX Research:** Conducted deep-dive user interviews and **Customer Journey Mapping** to uncover friction points in the thrift-shopping experience.
+* **Interaction Design:** Developed high-fidelity **interactive prototypes in Figma**, focusing on intuitive navigation and trust-building micro-interactions.
+* **Information Architecture:** Designed the **Relational Database Schema (ERD)** to ensure the back-end logic perfectly supports the front-end user flow.
+* **UX Engineering:** Implemented a responsive front-end interface using **Svelte**, ensuring design consistency and technical feasibility.
+
+---
+
+## The Problem (Research Insights)
+Based on qualitative research, we identified three core barriers for users:
+
+1.  **The Trust Gap:** High anxiety regarding item condition, hygiene, and potential scams.
+2.  **The "CF" Complexity:** Traditional social media buying (Comment-to-Buy) is time-consuming and prone to human error.
+3.  **Sizing Uncertainty:** Lack of standardized sizing measurements leading to buyer hesitation.
+
+---
+
+## User Persona
+**The Conscious Student (Age 18–22)**
+* **Goal:** Finds unique, affordable self-expression while supporting sustainable fashion.
+* **Pain Points:** Limited time to browse physical thrift stores; hates complicated checkout steps; fears "hidden" product defects.
+
+---
+
+## Design Solutions (Design Decisions)
+
+### **1. Trust-Centric Interface**
+* **Solution:** Integrated a **Verified Seller Badge** and a transparent **Review/Rating system**.
+* **UX Impact:** Reduces cognitive load and build immediate trust during the browsing phase.
+
+### **2. Frictionless Checkout Flow**
+* **Solution:** Replaced the manual "CF" process with a **One-Click Secure Checkout**.
+* **UX Impact:** Streamlines the transaction from 5-7 steps down to 3, significantly reducing cart abandonment.
+
+### **3. System-Aware Design (The MIS Edge)**
+* **Solution:** Designed the database architecture to support real-time **Smart Filters** (Brand, Condition, Sizing).
+* **UX Impact:** Enables a personalized discovery experience, helping users find exactly what fits them in seconds.
+
+---
+
+## Technical Stack & UX Toolkit
+* **Design Tools:** Figma (High-Fi Prototyping, Component Systems)
+* **Research:** User Interviews, Journey Mapping, Persona Development.
+* **Development:** Svelte (Front-end), Relational Database Design (ERD).
+* **Methodology:** Agile Delivery, User Stories, UAT.
+
+---
+
+## Prototype
+[**View Figma Prototype →**](https://www.figma.com/proto/aNdXdOhom009ph02EJZgPD/Untitled?node-id=0-1&t=30i68g0kaVXo89qB-1)
+
+---
