@@ -1,5 +1,3 @@
-# JIrapornMith-Portfolio
-
 
 #  Jiraporn Mithoy
 
