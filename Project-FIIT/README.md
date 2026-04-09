@@ -65,3 +65,15 @@ Based on qualitative research, we identified three core barriers for users:
 [**View Figma Prototype →**](https://www.figma.com/proto/aNdXdOhom009ph02EJZgPD/Untitled?node-id=0-1&t=30i68g0kaVXo89qB-1)
 
 ---
+## Source Code & Implementation
+
+The front-end implementation is built with **SvelteKit**, with key features including:
+- Community Feed with dynamic tag filtering
+- Post Detail with real-time commenting system
+- User authentication state managed via Svelte Store
+
+Back-end API is powered by **FastAPI** with **SQLite** database via SQLModel.
+
+> ⚠️ Note: This project is currently under active development. Some features and pages are still in progress.
+
+View Source Code → [📁 Source Code Folder](./SourceCode)
