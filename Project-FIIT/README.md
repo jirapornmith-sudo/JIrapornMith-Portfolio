@@ -76,4 +76,4 @@ Back-end API is powered by **FastAPI** with **SQLite** database via SQLModel.
 
 > ⚠️ Note: This project is currently under active development. Some features and pages are still in progress.
 
-View Source Code → [📁 Source Code Folder](./SourceCode)
+View Source Code → [📁 Source Code Folder](./sourcecode)
