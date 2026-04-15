@@ -35,8 +35,21 @@
 ## 📂 Featured Projects
 
 ### **Fiit — Smart Second-Hand Fashion Platform**
-* *Keywords: UX/UI Design, User Research, Product Development*
-* Developed a fashion resale platform by conducting end-to-end UX research and designing high-fidelity prototypes in Figma, ensuring the interface meets both aesthetic standards and technical feasibility.
+* **Role:** UX/UI Design & User Research
+* **Key Contribution:** Designed an end-to-end user experience for a fashion resale marketplace. Focused on creating a seamless 'Shopping to Selling' flow and a visual identity that appeals to eco-conscious Gen Z fashionistas.
+
+#### **Project Overview**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2fe913fc-ddbb-4c30-9d03-917ce6a742a2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c71d3d8f-781e-4adf-a02f-3f8878a4a0c4" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5a41ecb-3a43-49dc-9a80-4241ac826c3c" width="45%" />
+  <img src="https://github.com/user-attachments/assets/70e5a437-d498-48b0-9bba-6ea967ba2bc2" width="45%" />
+</p>
+
+> **Design Note:** The UI utilizes a clean, modern aesthetic with high-quality imagery to elevate the second-hand clothing experience. The architecture was meticulously planned to minimize user friction during the listing and purchasing process.
 
 ### **Pink Guava (GUTAVA) — Brand Management Project**
 * **Role:** Strategic Brand Planning & Visual Direction
