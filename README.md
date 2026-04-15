@@ -44,12 +44,12 @@
 
 #### **Visual Identity & Brand Moodboard:**
 <p align="center">
-  <img src="URL_ของรูปที่1" width="45%" />
-  <img src="URL_ของรูปที่2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ccc5b8f1-398b-406a-a6f0-b8b47c332b41" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ec9b1779-7f06-4eb2-831a-a9496ee6e979" width="45%" />
 </p>
 <p align="center">
-  <img src="URL_ของรูปที่3" width="45%" />
-  <img src="URL_ของรูปที่4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/dfea91c4-242e-485d-bd84-5ee2ce53611a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1e0ee8ae-8a17-4582-a72b-c7156d8437b2" width="45%" />
 </p>
 
 > **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
