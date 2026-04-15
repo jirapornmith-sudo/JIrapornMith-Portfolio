@@ -57,13 +57,13 @@
 
 #### **Project Overview**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2fe913fc-ddbb-4c30-9d03-917ce6a742a2" width="45%" />
-  <img src="https://github.com/user-attachments/assets/c71d3d8f-781e-4adf-a02f-3f8878a4a0c4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/70e5a437-d498-48b0-9bba-6ea967ba2bc2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e5a41ecb-3a43-49dc-9a80-4241ac826c3c" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5a41ecb-3a43-49dc-9a80-4241ac826c3c" width="45%" />
-  <img src="https://github.com/user-attachments/assets/70e5a437-d498-48b0-9bba-6ea967ba2bc2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c71d3d8f-781e-4adf-a02f-3f8878a4a0c4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2fe913fc-ddbb-4c30-9d03-917ce6a742a2" width="45%" />
 </p>
 
 > **Design Note:** The UI utilizes a clean, modern aesthetic with high-quality imagery to elevate the second-hand clothing experience. The architecture was meticulously planned to minimize user friction during the listing and purchasing process.
