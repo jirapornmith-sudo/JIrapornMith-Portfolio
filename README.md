@@ -67,14 +67,22 @@ GUTAVA was an end-to-end journey of building a brand from scratch. I identified 
 > **Key Takeaway:** This project taught me how to stress-test creative ideas with systematic risk management and synthesize raw insights from different demographics into a solid brand direction.
 ---
 
-### 👗 Fiit — Smart Second-Hand Fashion 
-> **Role:** UX/UI Design & User Research
+### 👗 Fiit — Smart Second-Hand Fashion Platform
+> **Role:** Product Designer & UX Engineer (End-to-End Implementation)
+
+**Fiit** is a mobile marketplace designed to bridge the trust gap in the second-hand fashion industry. By merging **Data-driven Design** with **Technical Implementation**, I transformed complex "thrift-shopping" pain points into a seamless digital experience.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/70e5a437-d498-48b0-9bba-6ea967ba2bc2" width="48%" />
   <img src="https://github.com/user-attachments/assets/e5a41ecb-3a43-49dc-9a80-4241ac826c3c" width="48%" />
   <img src="https://github.com/user-attachments/assets/c71d3d8f-781e-4adf-a02f-3f8878a4a0c4" width="48%" />
   <img src="https://github.com/user-attachments/assets/2fe913fc-ddbb-4c30-9d03-917ce6a742a2" width="48%" />
 </p>
+
+#### **The Solution: UX & System Engineering**
+* **Trust-Centric Interface:** Solved "item condition anxiety" through a Verified Seller System and transparent rating UI.
+* **Frictionless Transaction:** Replaced manual "Comment-to-Buy" (CF) complexity with a **One-Click Secure Checkout**, reducing process steps by 50%.
+* **Full-Stack Alignment:** Beyond visuals, I designed the **Relational Database (ERD)** and implemented the front-end using **Svelte**, ensuring that the system architecture supports real-time smart filtering and user flows.
 
 ---
 
