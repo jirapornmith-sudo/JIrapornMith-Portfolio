@@ -56,7 +56,7 @@
   <img src="https://github.com/user-attachments/assets/1e0ee8ae-8a17-4582-a72b-c7156d8437b2" width="48%" />
 </p>
 
- **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
+> **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
 ---
 
 ### 👗 Fiit — Smart Second-Hand Fashion 
