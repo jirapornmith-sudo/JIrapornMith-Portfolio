@@ -1,4 +1,4 @@
-# JIRAPORN MITOI
+# JIRAPORN MITHOY
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Available_for_Internship-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Role-UX/UI%20%7C%20Brand%20Strategy-blue?style=for-the-badge">
