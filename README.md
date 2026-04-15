@@ -34,6 +34,23 @@
 
 ## 📂 Featured Projects
 
+### **Pink Guava (GUTAVA) — Brand Management Project**
+* **Role:** Strategic Brand Planning & Visual Direction
+* **Key Contribution:** Formulated a data-backed brand strategy for Gen X, Y, and Z. Developed the visual identity to bridge the gap between "Traditional Wellness" and "Modern Lifestyle."
+
+#### **Visual Identity & Brand Moodboard:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccc5b8f1-398b-406a-a6f0-b8b47c332b41" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ec9b1779-7f06-4eb2-831a-a9496ee6e979" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dfea91c4-242e-485d-bd84-5ee2ce53611a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1e0ee8ae-8a17-4582-a72b-c7156d8437b2" width="45%" />
+</p>
+
+> **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
+
+
 ### **Fiit — Smart Second-Hand Fashion Platform**
 * **Role:** UX/UI Design & User Research
 * **Key Contribution:** Designed an end-to-end user experience for a fashion resale marketplace. Focused on creating a seamless 'Shopping to Selling' flow and a visual identity that appeals to eco-conscious Gen Z fashionistas.
@@ -51,21 +68,6 @@
 
 > **Design Note:** The UI utilizes a clean, modern aesthetic with high-quality imagery to elevate the second-hand clothing experience. The architecture was meticulously planned to minimize user friction during the listing and purchasing process.
 
-### **Pink Guava (GUTAVA) — Brand Management Project**
-* **Role:** Strategic Brand Planning & Visual Direction
-* **Key Contribution:** Formulated a data-backed brand strategy for Gen X, Y, and Z. Developed the visual identity to bridge the gap between "Traditional Wellness" and "Modern Lifestyle."
-
-#### **Visual Identity & Brand Moodboard:**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ccc5b8f1-398b-406a-a6f0-b8b47c332b41" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ec9b1779-7f06-4eb2-831a-a9496ee6e979" width="45%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dfea91c4-242e-485d-bd84-5ee2ce53611a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/1e0ee8ae-8a17-4582-a72b-c7156d8437b2" width="45%" />
-</p>
-
-> **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
 
 -----
 
