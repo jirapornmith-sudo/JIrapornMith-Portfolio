@@ -39,8 +39,20 @@
 * Developed a fashion resale platform by conducting end-to-end UX research and designing high-fidelity prototypes in Figma, ensuring the interface meets both aesthetic standards and technical feasibility.
 
 ### **Pink Guava (GUTAVA) — Brand Management Project**
-* *Keywords: Branding, Consumer Insights, Market Strategy*
-* Formulated a data-backed brand strategy by analyzing Gen X, Y, and Z consumer behaviors, focusing on concept validation and strategic positioning to ensure market viability.
+* **Role:** Strategic Brand Planning & Visual Direction
+* **Key Contribution:** Formulated a data-backed brand strategy for Gen X, Y, and Z. Developed the visual identity to bridge the gap between "Traditional Wellness" and "Modern Lifestyle."
+
+#### **Visual Identity & Brand Moodboard:**
+<p align="center">
+  <img src="URL_ของรูปที่1" width="45%" />
+  <img src="URL_ของรูปที่2" width="45%" />
+</p>
+<p align="center">
+  <img src="URL_ของรูปที่3" width="45%" />
+  <img src="URL_ของรูปที่4" width="45%" />
+</p>
+
+> **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
 
 -----
 
