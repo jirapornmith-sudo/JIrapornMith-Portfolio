@@ -1,55 +1,52 @@
 
-#  Jiraporn Mithoy
+# JIRAPORN MITOI
 
-### **Aspiring Product Designer & UX Engineer | MIS @ Thammasat University**
+### **MIS Student @ Thammasat University | Specialized in UX/UI Design & Brand Strategy**
 
-> **"Bridging the gap between user needs and technical feasibility through data-driven design."**
+> **"Bridging the gap between data-driven insights, technical feasibility, and creative storytelling to build seamless brand experiences."**
 
 -----
 
 ## 👤 About Me
 
-  * **Bilingual Proficiency:** TOEIC 845 (Thai/English)
-  * **Unique Edge:** เข้าใจทั้ง Design (UX/UI), Data (SQL/BI) และ Development (Svelte/Database)
-  * **Focus:** User-Centric Research, Information Architecture, and Interactive Prototyping.
+* **The Hybrid Edge:** An MIS student with a Marketing minor, blending analytical thinking with creative execution. I focus on creating digital experiences that are not only functional (UX/UI) but also emotionally resonant (Branding).
+* **Bilingual Proficiency:** TOEIC 845 (Fluent in Thai/English).
+* **Core Philosophy:** Whether designing a user interface or a brand campaign, I believe in a **User-Centric Approach**—using data to drive creativity.
 
 -----
 
 ## 🛠️ Skills & Toolstack
 
-### **Design & Research**
+### **Design & User Experience (UX/UI)**
+* **Design Tools:** Figma (Advanced Prototyping, Design Systems, Auto-layout), Wireframing.
+* **UX Research:** User Interviews, Journey Mapping, Usability Testing (UAT), Information Architecture.
 
-  * **Design:** Figma (Advanced Prototyping, Design Systems), Wireframing
-  * **UX Research:** User Interview, Journey Mapping, Usability Testing, Information Architecture
+### **Branding & Digital Content**
+* **Strategy:** TikTok Content Strategy, Viral Trend Analysis, Brand Positioning.
+* **Creative:** Short-form Video Production (CapCut), Shooting Techniques, Visual Storytelling.
 
-### **Development & Systems**
-
-  * **Frontend:** Svelte, HTML/CSS
-  * **System Design:** Relational Database (ERD), Object-Oriented Analysis (OOA), BPMN
-  * **Backend Concepts:** API Integration, SQL (PostgreSQL/MySQL)
-
-### **Data & Strategy**
-
-  * **Analytics:** Tableau, Power BI, Looker Studio, Python
-  * **Business:** Requirements Elicitation (User Stories), Gap Analysis, Agile/Scrum
+### **Data & Technical Systems**
+* **Analytics:** SQL (PostgreSQL/MySQL), Tableau, Power BI, Advanced Excel.
+* **Systems:** Odoo ERP, Requirements Elicitation (User Stories), Agile/Scrum.
+* **Development:** Fundamental Frontend (Svelte, HTML/CSS) and ERD Design.
 
 -----
 
 ## 📂 Featured Projects
 
-| Project Name | Description | Role | Links |
-| :--- | :--- | :--- | :--- |
-| **FIIT** | แพลตฟอร์มแฟชั่นมือสองอัจฉริยะ แก้ปัญหาความน่าเชื่อถือ | UX/UI & Dev | [View Project](https://www.google.com/search?q=./FIIT-Project) / [Figma](https://www.google.com/search?q=https://figma.com/...) |
-| **Cosmetic Resale** | แพลตฟอร์มรีเซลเครื่องสำอางบนระบบ Odoo ERP | [View Project](https://www.google.com/search?q=./Odoo-Project) |
-| **Gutava** | วิจัยและวางกลยุทธ์ผลิตภัณฑ์ Prebiotic | [View Project](https://www.google.com/search?q=./Data-Project) |
+### **Fiit — Smart Second-Hand Fashion Platform**
+* *Keywords: UX/UI Design, User Research, Product Development*
+* Developed a fashion resale platform by conducting end-to-end UX research and designing high-fidelity prototypes in Figma, ensuring the interface meets both aesthetic standards and technical feasibility.
 
-
-
------
-
-## 📫 Connect with Me
-
-  * **LinkedIn:** [linkedin.com/in/jiraporn-mithoy](www.linkedin.com/in/jiraporn-mithoy-5063a539b)
-  * **Email:** [jirapornmith@gmail.com]
+### **Pink Guava (GUTAVA) — Brand Management Project**
+* *Keywords: Branding, Consumer Insights, Market Strategy*
+* Formulated a data-backed brand strategy by analyzing Gen X, Y, and Z consumer behaviors, focusing on concept validation and strategic positioning to ensure market viability.
 
 -----
+
+## 📫 Contact & Connect
+* **Email:** jirapornmith@gmail.com
+* **Phone:** 090-891-1063
+
+---
+
