@@ -49,6 +49,8 @@
 
 ### 🥤 Pink Guava (GUTAVA) — Brand Strategy
 > **Role:** Strategic Brand Planning & Visual Direction
+
+GUTAVA was an end-to-end journey of building a brand from scratch. I identified a massive opportunity in the **Gut Health sector**, noticing a lack of credible local brands despite booming demand.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ccc5b8f1-398b-406a-a6f0-b8b47c332b41" width="48%" />
   <img src="https://github.com/user-attachments/assets/ec9b1779-7f06-4eb2-831a-a9496ee6e979" width="48%" />
@@ -57,6 +59,12 @@
 </p>
 
 > **Design Note:** The visual direction focuses on vibrant, energetic tones to reflect the 'prebiotic' health benefits while maintaining a playful, approachable aesthetic that resonates with younger generations.
+
+#### **Strategy & Process**
+* **Segmented Insights:** Targeted **Gen X & Y** (Preventive lifestyle) and **Gen Z** (Holistic & Skin-driven) to create a multi-generational appeal.
+* **Data-Backed Validation:** Conducted a **Concept Test with 30 target users**. By analyzing feedback through *Best, Normal, and Weak scenarios*, I identified that 'Gut Health' and 'Convenience' were non-negotiable deal-breakers for all segments.
+* **Strategic Positioning:** Refined the brand mantra to **"Balanced Gut, Trusted Wellness."** * **Product Innovation:** Prioritized a 'low-friction' soft-chew format using local **"Phu Phirun" Pink Guava**, supporting local farmers while meeting user needs for portability.
+> **Key Takeaway:** This project taught me how to stress-test creative ideas with systematic risk management and synthesize raw insights from different demographics into a solid brand direction.
 ---
 
 ### 👗 Fiit — Smart Second-Hand Fashion 
